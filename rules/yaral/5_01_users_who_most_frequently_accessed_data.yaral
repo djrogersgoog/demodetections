@@ -16,7 +16,7 @@
 
 rule users_who_most_frequently_accessed_data {
   meta:
-    author = "Rishalin Pillay"
+    author = "Darren Rogers"
     description = "Top users who have accessed data most frequently in the past week."
     severity = "Low"
 	
